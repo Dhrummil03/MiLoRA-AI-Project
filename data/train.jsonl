@@ -1,0 +1,20 @@
+{"instruction": "What is machine learning?", "output": "Machine learning is a branch of AI in which models learn patterns from data to make predictions or decisions."}
+{"instruction": "What is an algorithm?", "output": "An algorithm is a finite sequence of well-defined steps used to solve a problem or perform a computation."}
+{"instruction": "What is Python?", "output": "Python is a high-level programming language widely used for software development, automation, data science and artificial intelligence."}
+{"instruction": "What is deep learning?", "output": "Deep learning is a machine learning approach that uses neural networks with multiple layers to learn representations from data."}
+{"instruction": "What is an LLM?", "output": "An LLM is a large language model trained on large amounts of text to understand and generate natural language."}
+{"instruction": "What is fine-tuning?", "output": "Fine-tuning adapts a pretrained model to a particular task or dataset by training it further on task-specific examples."}
+{"instruction": "What is LoRA?", "output": "LoRA is a parameter-efficient fine-tuning method that learns a low-rank weight update while keeping the pretrained model weights frozen."}
+{"instruction": "What is SVD?", "output": "Singular Value Decomposition factorizes a matrix into left singular vectors, singular values and right singular vectors."}
+{"instruction": "Why use GPUs for deep learning?", "output": "GPUs can perform many matrix operations in parallel, making neural-network training much faster than typical CPU execution."}
+{"instruction": "What is overfitting?", "output": "Overfitting occurs when a model learns the training data too closely and performs poorly on unseen data."}
+{"instruction": "What is a neural network?", "output": "A neural network is a model made of interconnected computational units that learn parameters from data."}
+{"instruction": "What is NLP?", "output": "Natural Language Processing is the field of AI concerned with processing, understanding and generating human language."}
+{"instruction": "What is parameter-efficient fine-tuning?", "output": "Parameter-efficient fine-tuning updates only a small number of trainable parameters while keeping most pretrained parameters frozen."}
+{"instruction": "What is a transformer?", "output": "A transformer is a neural architecture based primarily on attention mechanisms and is widely used for language modeling."}
+{"instruction": "Why freeze pretrained weights?", "output": "Freezing pretrained weights reduces memory and computation requirements and helps retain knowledge learned during pretraining."}
+{"instruction": "What is a singular value?", "output": "A singular value measures the strength of a corresponding singular direction in a matrix."}
+{"instruction": "What is a low-rank matrix?", "output": "A low-rank matrix can be represented using fewer independent dimensions than its full matrix dimensions."}
+{"instruction": "What is an attention mechanism?", "output": "Attention lets a model assign different importance to elements of an input when producing a representation."}
+{"instruction": "What is model inference?", "output": "Inference is the process of using a trained model to generate predictions or outputs for new inputs."}
+{"instruction": "What is a dataset?", "output": "A dataset is a collection of examples used to train, validate or evaluate a machine-learning model."}
